@@ -60,7 +60,7 @@ This function basically just acts as an orchestrator function; it runs our valid
 and it decides what to do if validation fails. Its responsibility then, is to just
 run all of our validation and subsequently decide what to do with the result. 
 
-Next, the keyword 'not', what does it do?
+Next, the 'not' keyword, what does it do?
 This one's very much what it says on the tin, this keyword just asks "is the answer to the 
 next question 'no' and if it is, do the next thing." Let's look at an example condition:
     if 2 == 2:

@@ -20,7 +20,7 @@ This necessarily means that each subsequent version gets more difficult and more
 
 The important thing is that you absolutely categorically do not at all need to get through every version of any program before you move onto the next program. If you get to some version that doesn't quite make sense to you and it's just *not* going in, don't worry about it! Just move onto the next program and you can come back to that other version later.
 
-The only recommended way to navigate this repo is just to look at the programs in the order that they're presented. Start with 'Beginner_A', go through programs 1, 2, 3... and so on, and just go up the versions until you're comfortable.
+The only real recommended way to navigate this repo is just to look at the programs in the order that they're presented. Start with 'Beginner_A', go through programs 1, 2, 3... and so on, and just go up the versions until you're comfortable. Try editing the programs to figure out how they work and get a better understanding of them, and try adding new features if you think of any, see how you get on! As a beginner, if it works, you're doing great, make that your mantra!
 
 
 _________________________________________________________________________________________________________________
